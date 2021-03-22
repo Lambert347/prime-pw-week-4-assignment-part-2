@@ -1,16 +1,51 @@
+body {
+  background-color: #A9A9A9;
+}
+
 .header {
   background-color: #CD853F;
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+  border: 2px #2F4F4F;
+  border-radius: 10px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  margin-bottom: 25px;
+  color: #191970;
 }
 
 .info {
   background-color: #5F9EA0;
-  color: #DCDCDC;
+  color: #DC143C;
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+  border: 2px #2F4F4F;
+  border-radius: 10px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  margin-bottom: 25px;
 }
 
 .image {
   width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 25px;
 }
 
 .car {
+  display: block;
   background-color: #B22222;
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+  border: 2px #2F4F4F;
+  border-radius: 10px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  margin-bottom: 25px;
+  color: #FFF0F5;
 }
